@@ -33,7 +33,7 @@ include_once "_partials/header.php";
                             <input type="email" class="form-control" id="name" placeholder="Place Name">
                         </div>
                         <div class="form-group">
-                            <label for="nb_ppl" class="form-label mt-4">Nombre of ppl</label>
+                            <label for="nb_ppl" class="form-label mt-4">Number of people</label>
                             <input type="email" class="form-control" id="nb_ppl" placeholder="Enter number of ppl">
                         </div>
                         <div class="form-group">
@@ -51,11 +51,11 @@ include_once "_partials/header.php";
                         <fieldset class="form-group">
                             <legend class="mt-4">Handicap access</legend>
                             <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="handi_acces_yes">
+                                <input class="form-check-input" type="checkbox" value="" id="handi_acces_yes" checked="">
                                 <label class="form-check-label" for="handi_acces_yes">Yes</label>
                             </div>
                             <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="handi_acces_no" checked="">
+                                <input class="form-check-input" type="checkbox" value="" id="handi_acces_no">
                                 <label class="form-check-label" for="handi_acces_no">No</label>
                             </div>
                         </fieldset>
@@ -67,15 +67,15 @@ include_once "_partials/header.php";
         <div class="container mt-4 bg-body-secondary">
             <div class="form-group mt-4">
                 <label for="exampleTextarea" class="form-label mt-4">Description</label>
-                <textarea class="form-control" id="exampleTextarea1" rows="3" placeholder="add description"></textarea>
+                <textarea class="form-control" id="exampleTextarea1" rows="3" placeholder="Add description"></textarea>
             </div>
             <div class="form-group mt-4">
                 <label for="exampleTextarea" class="form-label mt-4">Restaurant / snack near by</label>
                 <textarea class="form-control" id="exampleTextarea2" rows="3" placeholder="Restaurants and Snack description "></textarea>
             </div>
             <div class="form-group mt-4">
-                <label for="exampleTextarea" class="form-label mt-4">Activites near by</label>
-                <textarea class="form-control" id="exampleTextarea3" rows="3" placeholder="activites description"></textarea>
+                <label for="exampleTextarea" class="form-label mt-4">Activities near by</label>
+                <textarea class="form-control" id="exampleTextarea3" rows="3" placeholder="Activities description"></textarea>
             </div>
         </div>
     </div>

@@ -33,9 +33,9 @@ include_once "_partials/header.php";
         <div>
             <h2>Palais des Papes</h2>
             <p>Number of pepole : 200</p>
-            <p>location : Avignon</p>
+            <p>Location : Avignon</p>
             <p>20,000 /day</p>
-            <p>Handicap access : no</p>
+            <p>Handicap access : Yes</p>
             <a href="https://palais-des-papes.com/">https://palais-des-papes.com/</a>
             
         </div>
@@ -46,11 +46,11 @@ include_once "_partials/header.php";
     <div class="d-flex align-items-center">
         <img class="m-4 fixed-size-img" src="img/palais-des-congres-dossier-emag-nimes-1-scaled.jpg">
         <div>
-            <h2>Palais des congres</h2>
+            <h2>Palais des congrès</h2>
             <p>Number of people : 2000</p>
-            <p>location : Nîmes</p>
+            <p>Location : Nîmes</p>
             <p>15,000 / day</p>
-            <p>Handicap access : no</p>
+            <p>Handicap access : Yes</p>
             <a href="https://www.nimes-tourisme.com/">https://www.nimes-tourisme.com/</a>
         </div>
     </div>
@@ -64,7 +64,7 @@ include_once "_partials/header.php";
             <p>Number of people : 5000</p>
             <p>Location : Cannes</p>
             <p>22,000 /day</p>
-            <p>Handicap access : yes</p>
+            <p>Handicap access : Yes</p>
             <a href="https://www.palaisdesfestivals.com/">https://www.palaisdesfestivals.com/</a>
         </div>
     </div>
@@ -78,7 +78,7 @@ include_once "_partials/header.php";
             <p>Number of people : 3000</p>
             <p>Location : Monaco</p>
             <p>35 000 / day</p>
-            <p>Handicap access : yes</p>
+            <p>Handicap access : Yes</p>
             <a href="https://yacht-club-monaco.mc/">https://yacht-club-monaco.mc/</a>
         </div>
     </div>
